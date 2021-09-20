@@ -1,3 +1,9 @@
 #navbar {
   float: left;
 }
+
+@media screen and (max-width:800px) {
+    body {
+        background-color: rgb(182, 110, 23);
+    }
+}
